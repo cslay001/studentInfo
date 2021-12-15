@@ -11,7 +11,7 @@ public class studentInfo {
         char studentMiddleInitial = studentMiddleName.charAt(0);
         String studentLastName = "Flores";
         char studentLastInitial = studentLastName.charAt(0);
-        String studentID = "5994653";
+        String studentID = "555555";
         int studentAge = 22;
         double studentGPA = 3.92;
         boolean hasPerfectAttendance = true;
