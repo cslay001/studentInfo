@@ -26,7 +26,8 @@ public class studentInfo {
         Scanner input = new Scanner(System.in);
         studentGPA = input.nextDouble();
         System.out.println("Student " + studentFirstName + " " + studentMiddleInitial + ". " + studentLastName + " now has a GPA of " + studentGPA);
-        System.out.println("------------------------------------");   
+        System.out.println("---------------------------------------------------"
+        		+ "");   
         System.out.println("Student Name: " + studentFirstName + " " + studentMiddleInitial + ". " + studentLastName);
         System.out.println("Student Initials: " + studentFirstInitial + studentMiddleInitial + studentLastInitial);
         System.out.println("Student ID: " + studentID);
